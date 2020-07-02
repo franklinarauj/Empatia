@@ -20,4 +20,4 @@ Supondo que você já utilize (recomendamos) o Visual Studio Code:
 - Instalar o pacote de escrita de e-mail: expo install expo-mail-composer ;
 - Instalar pacote de formatação INTL: npm install intl ;
 
-Alguns comandos executados na pasta do backend, outras no frontend e também na pasta mobile (esqueci de separar, mas vai ficar assim mesmo).
+Alguns comandos executados na pasta do backend, outras no frontend e também na pasta mobile (esqueci de separar).
