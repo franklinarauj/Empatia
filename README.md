@@ -9,12 +9,11 @@ A pessoa se cadastra no aplicativo, procura pelo seu prédio/condomínio e pede 
 
 Em tempos difíceis como esse que estamos passando, continuar a ser uma pessoa gentil, boa e prestativa faz com que todos saem ganhando. Ajudando não só o próximo, mas a nós mesmos de entrarmos em ‘colapso’ com um desenvolvimento de ansiedade, depressão ou qualquer outro mal em ascensão no século em que vivemos. Continue firme e bem, vai dar tudo certo e em breve voltaremos a uma nova normalidade com toda experiência  adquirida nessa fase tão conturbada de nossas vidas.
 
-Como você está se sentindo nessa quarentena? Responda a nossa pesquisa disponível no link abaixo:
-https://forms.gle/aE1xTxRAfUbZwGwa8
+Como você está se sentindo nessa quarentena? Responda a nossa pesquisa disponível no link abaixo: https://forms.gle/aE1xTxRAfUbZwGwa8
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Especificações de Tecnologias Utilizadas (até o momento):
+<ul><h4>Especificações de Tecnologias Utilizadas (até o momento):</h4></ul>
 
 - ReactJS
 - React Native com Node.js
@@ -34,7 +33,7 @@ Especificações de Tecnologias Utilizadas (até o momento):
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Funcionalidades:
+<ul><h4>Funcionalidades:</h4></ul>
 
 - Criação de conta de usuário e administrador, ambos com autenticação
 - Criação e gerenciamento de prédio/condomínio
@@ -52,7 +51,7 @@ Funcionalidades:
 
 O QUE É NECESSÁRIO PARA RODAR O APLICATIVO NA SUA MÁQUINA?
 
-Supondo que você já utilize (recomendamos) o Visual Studio Code:
+<ul><h4>Supondo que você já utilize (recomendamos) o Visual Studio Code:</h4></ul>
 
 - Clone o repositório
     $ git clone https://github.com/franklinarauj/Empatia
