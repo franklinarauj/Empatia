@@ -49,9 +49,7 @@ Como você está se sentindo nessa quarentena? Responda a nossa pesquisa dispon�
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-O QUE É NECESSÁRIO PARA RODAR O APLICATIVO NA SUA MÁQUINA?
-
-<ul><h4>Supondo que você já utilize (recomendamos) o Visual Studio Code:</h4></ul>
+<ul><h4>O QUE É NECESSÁRIO PARA RODAR O APLICATIVO NA SUA MÁQUINA? Supondo que você já utilize (recomendamos) o Visual Studio Code:</h4></ul>
 
 - Clone o repositório
     $ git clone https://github.com/franklinarauj/Empatia
