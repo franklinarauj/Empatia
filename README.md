@@ -1,6 +1,6 @@
 ![EMPATIA](https://user-images.githubusercontent.com/51242246/82749560-56736800-9d80-11ea-9409-816f670f872b.jpg)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h3><b>Aplicativo que visa facilitar pessoas a se ajudarem durante a quarentena e o isolamento social.
+<h3><b>Aplicativo que visa facilitar pessoas a se ajudarem durante a quarentena e o isolamento social.<h3><b>
 
 Devido aos acontecimentos no ano de 2020, como o avanço da COVID-19 no mundo todo e no Brasil, o isolamento social e a medida de quarentena foi abraçada por toda e qualquer pessoa que possui a noção de que enfrentamos algo sério, perigoso e facilmente transmissível. Sendo assim, vivendo um momento histórico algumas questões humanas são observadas e analisadas, revisamos e pensamos em como podemos nos adaptar ao que estamos vivendo. Será que até mesmo em uma situação como essa nós ainda conseguimos tentar ficar bem e ajudar quem precisa? Conseguimos parar um pouco e pensar em como a pessoa do seu lado ou mais próximo está lidando com tudo aquilo? Conseguimos ter essa empatia por essas pessoas? Se sua resposta for sim, você provavelmente gostará da nossa ideia, que surgiu dessas reflexões que comentamos anteriormente.
 
