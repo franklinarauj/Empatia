@@ -60,8 +60,12 @@ Como você está se sentindo nessa quarentena? Responda a nossa pesquisa dispon�
 - Entrando em cada pasta de uma vez (backend, frontend e mobile), execute um npm install
     $ npm install
 
-- Agora dentro da pasta do mobile, execute um yarn (é necessário ter o yarn instalado) e logo após execute um yarn start
+- Agora dentro da pasta do mobile, execute um yarn (é necessário ter o yarn instalado) e logo após execute um yarn e yarn start
     $ yarn
     $ yarn start
     
 Pronto, você já está com o projeto sendo executado em sua máquina.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+PRÉVIA DA APLICAÇÃO NO DESKTOP FUNCIONANDO: https://stoic-lovelace-8c7bad.netlify.app/
