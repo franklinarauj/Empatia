@@ -33,19 +33,19 @@ Como você está se sentindo nessa quarentena? Responda a nossa pesquisa dispon�
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<ul><h4>Funcionalidades:</h4></ul>
+<ul><h4>Funcionalidades em Roadmap:</h4></ul>
 
-- Criação de conta de usuário e administrador, ambos com autenticação
-- Criação e gerenciamento de prédio/condomínio
-- Visualização e listagem de todas as empatias e todos os prédios/condomínios
-- Pesquisa de empatias e prédios/condomínios por nome, unidades federativas e localização
-- Informações de contato do usuário cadastrado (e-mail, telefone, etc)
-- Orientações da OMS para prevenção da COVID-19 
-- Integração para meios de pagamento (pensável se aplicável)
-- Edição de perfis de usuário
-- Recuperação de senha de usuário
-- Chat próprio do aplicativo (pensável se aplicável)
-- Máscaras em inputs
+- [ ] Criação de conta de usuário e administrador, ambos com autenticação
+- [x] Criação e gerenciamento de prédio/condomínio
+- [x] Visualização e listagem de todas as empatias e todos os prédios/condomínios
+- [x] Pesquisa de empatias e prédios/condomínios por nome, unidades federativas e localização
+- [x] Informações de contato do usuário cadastrado (e-mail, telefone, etc)
+- [ ] Orientações da OMS para prevenção da COVID-19 
+- [ ] Integração para meios de pagamento (pensável se aplicável)
+- [ ] Edição de perfis de usuário
+- [ ] Recuperação de senha de usuário
+- [ ] Chat próprio do aplicativo (pensável se aplicável)
+- [ ] Máscaras em inputs
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
